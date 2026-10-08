@@ -13,7 +13,7 @@ Prove or refute one hard statement, over many sessions and many agents, with eve
 certified. [How it works](https://human-ai-mathematics.github.io/conjecture-search/how-it-works.html):
 the life of a statement, the repository, and how to contribute.
 
-- **[The Kannan–Lovász–Simonovits frontier](https://human-ai-mathematics.github.io/kls-conjecture-search/)**
+- **[The KLS theorem and its methods](https://human-ai-mathematics.github.io/kls-conjecture-search/)**
   — a manuscript on the KLS conjecture, now a theorem: the three recent proofs, their comparison,
   and alternative mechanisms for the dimension-free Poincaré bound.
 - **[conjecture-search-template](https://github.com/human-ai-mathematics/conjecture-search-template)**
@@ -31,7 +31,8 @@ direction, not yet a project.
 
 This is a proposal, not a finished method, and it will change as the tools do. Start a
 [discussion](https://github.com/orgs/human-ai-mathematics/discussions) or open an
-[issue](https://github.com/human-ai-mathematics/human-ai-mathematics.github.io/issues).
+[issue](https://github.com/human-ai-mathematics/human-ai-mathematics.github.io/issues), or
+write to nicolas.brosse [at] ensae.fr.
 
 ## Team
 
